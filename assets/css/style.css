@@ -125,7 +125,7 @@ section {
 
 /* Hero Style End */
 
-/* Main Page Style Begins */
+/* What We Do Style Begins */
 
 .section-title {
     font-size: 55px;
@@ -185,4 +185,39 @@ section {
     font-size: 38px;
 }
 
-/* Main Page Style Ends */
+/* What We Do Style Ends */
+
+/* Trainers Style Begins */
+
+.trainers {
+    text-align: center;
+}
+
+.trainer {
+    max-width: 900px;
+    margin: 0 auto 30px auto;
+    background: #024e76;
+    color: #fce138;
+    overflow: auto;
+}
+
+.trainer img {
+    width: 35%;
+    float: left;
+}
+
+.trainer-bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+/* Trainer Style Ends */
