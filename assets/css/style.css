@@ -233,6 +233,7 @@ section {
     position: absolute;
     left: -26px;
     top: 1px;
+    transform: rotate(-58deg);
 }
 
 .checkbox-wrapper input + label::after,
